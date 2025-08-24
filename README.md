@@ -1,5 +1,5 @@
 
-# 📊 Myntra Sales Analysis (2021 - Q1 2023)
+# 📊 Myntra Sales Analysis (2021 -  2023)
 
 This project provides a comprehensive analysis of Myntra’s sales data from 2021 to the first quarter of 2023, covering all major cities in India and multiple product niches. Using Power BI and Excel, it uncovers regional sales trends, niche-specific performance, and customer behavior insights to drive data-informed business decisions.
 
